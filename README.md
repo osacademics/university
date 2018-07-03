@@ -11,4 +11,4 @@ Welcome to the future of Open Source Academics, consumption and contribution of 
    - [3.2) Academic](bounties/academic/)
    - [3.3) Community](bounties/community/)
 - [4) Get Involved](get-involved/)
-   - [4.1) Contribution Guidelines]
+   - [4.1) Contribution Guidelines](get-involved/contribution-guidelines.md)

@@ -3,5 +3,5 @@
 ## Table of Contents
 
 - [Industry](industry/)
-- [Academics](academics/)
+- [Academic](academic/)
 - [Community](community/)
